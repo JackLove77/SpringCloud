@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecloud-config-dept-client-8001" />
+        <module name="microservicecloud-config-eureka-client-7001" />
+        <module name="microservicecloud_api" />
+        <module name="microservicecloud_config_3344" />
+        <module name="microservicecloud_config_client_3355" />
+        <module name="microservicecloud_consumerdept_80" />
+        <module name="microservicecloud_zuul_gateway_9527" />
+        <module name="microservicecloudconsumer_hystrix_dashboard" />
+        <module name="microservicecloudconsumerdept_feign" />
+        <module name="microservicecloudeureka_7001" />
+        <module name="microservicecloudeureka_7002" />
+        <module name="microservicecloudeureka_7003" />
+        <module name="microservicecloudproviderdept_8001" />
+        <module name="microservicecloudproviderdept_8002" />
+        <module name="microservicecloudproviderdept_8003" />
+        <module name="microservicecloudproviderdept_hystrix_8001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud" target="1.8" />
+      <module name="microservicecloud-config-dept-client-8001" target="1.8" />
+      <module name="microservicecloud-config-eureka-client-7001" target="1.8" />
+      <module name="microservicecloud_api" target="1.8" />
+      <module name="microservicecloud_config_3344" target="1.8" />
+      <module name="microservicecloud_config_client_3355" target="1.8" />
+      <module name="microservicecloud_consumerdept_80" target="1.8" />
+      <module name="microservicecloud_zuul_gateway_9527" target="1.8" />
+      <module name="microservicecloudconsumer_hystrix_dashboard" target="1.8" />
+      <module name="microservicecloudconsumerdept_feign" target="1.8" />
+      <module name="microservicecloudeureka_7001" target="1.8" />
+      <module name="microservicecloudeureka_7002" target="1.8" />
+      <module name="microservicecloudeureka_7003" target="1.8" />
+      <module name="microservicecloudproviderdept_8001" target="1.8" />
+      <module name="microservicecloudproviderdept_8002" target="1.8" />
+      <module name="microservicecloudproviderdept_8003" target="1.8" />
+      <module name="microservicecloudproviderdept_hystrix_8001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

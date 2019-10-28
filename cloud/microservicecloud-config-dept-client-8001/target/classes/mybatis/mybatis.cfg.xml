@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD SQL MAP Config 3.1//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+    <settings>
+        <!-- 动态从后台获取数据时，用hashMap去接收时，若value为null，则不显示该字段的key，现在改为true，则显示出所有字段 -->
+        <setting name="callSettersOnNulls" value="true" />
+    </settings>
+</configuration>

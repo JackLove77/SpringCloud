@@ -1,0 +1,3 @@
+net\wfw\net\bean\ConfigBean.class
+net\wfw\net\controller\DeptController_Feign.class
+net\wfw\net\DeptConsumer80_Feign_App.class

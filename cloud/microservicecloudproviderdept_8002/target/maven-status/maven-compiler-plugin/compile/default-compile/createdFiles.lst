@@ -1,0 +1,5 @@
+net\wfw\net\service\impl\DeptServiceImpl.class
+net\wfw\net\dao\DeptDao.class
+net\wfw\net\service\DeptService.class
+net\wfw\net\controller\DeptController.class
+net\wfw\net\DeptProvider8002_App.class

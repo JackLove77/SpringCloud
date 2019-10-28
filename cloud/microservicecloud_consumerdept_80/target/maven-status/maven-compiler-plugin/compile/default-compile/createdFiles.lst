@@ -1,0 +1,5 @@
+net\wfw\net\bean\ConfigBean.class
+net\wfw\net\DeptConsumer80_App.class
+net\wfw\myrule\MySelfRule.class
+net\wfw\net\controller\DeptController_Consumer.class
+net\wfw\myrule\RandomCustom.class
